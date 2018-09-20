@@ -4,17 +4,17 @@
 
 在一切开始之前，我需要下几个定义：
 
-**内容：**在教育领域，内容是知识和经验的总和。
+**内容**：在教育领域，内容是知识和经验的总和。
 
-**知识：**知识是已进入流通领域的人类对客观世界的认知总和，它的范围小则覆盖一个国家，大则覆盖全世界。
+**知识**：知识是已进入流通领域的人类对客观世界的认知总和，它的范围小则覆盖一个国家，大则覆盖全世界。
 
-**经验：**经验是尚未进入流通领域的、某个人在对客观世界的改造中积累的基于现有人类知识的见解，它的范围可能仅限于一个人、一个家庭，或一个企业内部。
+**经验**：经验是尚未进入流通领域的、某个人在对客观世界的改造中积累的基于现有人类知识的见解，它的范围可能仅限于一个人、一个家庭，或一个企业内部。
 
-**既有内容：**教育者所讲授的知识和经验。
+**既有内容**：教育者所讲授的知识和经验。
 
-**创设内容：**受教育者在教学过程中在自身原有知识结构上新创设的知识和经验。
+**创设内容**：受教育者在教学过程中在自身原有知识结构上新创设的知识和经验。
 
-**内容的流动 / 知识和经验的流动：**在教学活动中，教育者将其知识和经验传递给受教育者的过程。这个过程也伴随着既有内容向创设内容转化的过程。
+**内容的流动/知识和经验的流动**：在教学活动中，教育者将其知识和经验传递给受教育者的过程。这个过程也伴随着既有内容向创设内容转化的过程。
 
 下图为内容的流动示意（落实到了具体的人的点对点，或点对多的教学活动）：
 
@@ -94,7 +94,7 @@
 
 这是先前我们提到的小张的学习活动：
 
-![](https://raw.githubusercontent.com/MrWrh/an_upgrade_solution/master/imgs/小张时间轴 2.png)
+![](https://raw.githubusercontent.com/MrWrh/an_upgrade_solution/master/imgs/小张时间轴2.png)
 
 
 
@@ -108,7 +108,7 @@
 
 引入推论一，我们可将小张的学习活动解读为：
 
-![](https://raw.githubusercontent.com/MrWrh/an_upgrade_solution/master/imgs/小张时间轴 3.png)
+![](https://raw.githubusercontent.com/MrWrh/an_upgrade_solution/master/imgs/小张时间轴3.png)
 
 
 
@@ -191,13 +191,13 @@
 
 依然是前面提到的小张，这是在现有教育平台的学习活动：
 
-![](https://raw.githubusercontent.com/MrWrh/an_upgrade_solution/master/imgs/小张时间轴 3.png)
+![](https://raw.githubusercontent.com/MrWrh/an_upgrade_solution/master/imgs/小张时间轴3.png)
 
 
 
 利用分时内容流动模型，小张的学习活动将会变成：
 
-![](https://raw.githubusercontent.com/MrWrh/an_upgrade_solution/master/imgs/小张时间轴 4.png)
+![](https://raw.githubusercontent.com/MrWrh/an_upgrade_solution/master/imgs/小张时间轴4.png)
 
 在我的估算下，小张节约了3分钟——是的，前面的例子中，一节课时长35分钟，但在缺乏用户调研的前提下，我将时间做了保守预估。
 
