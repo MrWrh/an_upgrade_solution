@@ -66,7 +66,7 @@
 
 对于公理一而言，这个时间段的表象，可以是视频播放器和音乐播放器的进度条，也可以是文档的滚动条，更可以是某本书的页码。
 
-![](https://raw.githubusercontent.com/MrWrh/an_upgrade_solution/master/imgs/时间轴上内容流动的过程.png)
+![](https://raw.githubusercontent.com/MrWrh/an_upgrade_solution/master/imgs/时间段上内容流动的过程.png)
 
 
 
@@ -74,13 +74,13 @@
 
 在现代语言学的认知中，人类语言活动的形式可以理解为：
 
-![](https://raw.githubusercontent.com/MrWrh/an_upgrade_solution/master/imgs/语言活动的形式.png)
+![](https://raw.githubusercontent.com/MrWrh/an_upgrade_solution/master/imgs/语言活动形式.png)
 
 * 广义的传递过程，包含了“发出 — 传输 — 接收”的过程；
 
 具体到教育活动中，我们可以将它细化为：
 
-![](https://raw.githubusercontent.com/MrWrh/an_upgrade_solution/master/imgs/内容流动的形式.png)
+![](https://raw.githubusercontent.com/MrWrh/an_upgrade_solution/master/imgs/内容流动形式.png)
 
 这一内容流动过程，我们将之设为**公理二**。
 
